@@ -1,2 +1,14 @@
-# FreestyleGenerator
-Freestyle Generator on täisstack rakendus, mis võimaldab kasutajatel luua omaenda “freestyle” generaatoreid — sõnaliste mustrite põhjal genereeritavaid väljundeid (rap promptid, story ideed, coding challenge’id, trennikombod jne).
+# Freestyle Generator
+
+Täisstack projekt: **React + TypeScript** (frontend) ja **.NET 8 Web API** (backend) reaalajas freestyle generaatorite loomiseks.
+
+## Käivitamine
+
+### Backend
+
+```bash
+cd backend
+dotnet restore
+dotnet run
+
+### Frontend
